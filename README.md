@@ -1,4 +1,4 @@
-# Kata4
+# Kata 4
 
 Este proyecto es una kata de programación que implementa la importación de datos de películas desde un archivo comprimido en formato ZIP a una base de datos SQLite.
 
