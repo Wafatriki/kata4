@@ -1,6 +1,6 @@
 package es.ulpgc.dis;
 
-import software.ulpgc.kata4.commands.ImportCommand;
+import es.ulpgc.dis.commands.ImportCommand;
 
 public class Main {
     public static void main(String[] args) throws Exception {
