@@ -1,6 +1,6 @@
 package es.ulpgc.dis.io;
 
-import software.ulpgc.kata4.model.Movie;
+import es.ulpgc.dis.model.Movie;
 
 public class TsvMovieDeserializer implements MovieDeserializer{
     private static final int ID = 0;
